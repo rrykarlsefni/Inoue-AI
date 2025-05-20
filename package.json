@@ -1,0 +1,21 @@
+{
+  "name": "inoue-ai",
+  "version": "1.0.0",
+  "description": "AI dengan kepribadian Orihime Inoue dari Bleach",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "orihime",
+    "inoue",
+    "bleach",
+    "chatbot"
+  ],
+  "author": "rrykarlsefni",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
